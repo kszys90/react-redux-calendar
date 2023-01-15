@@ -1,0 +1,12 @@
+{
+  "meetings": [
+    {
+      "firstName": "Krzysztof",
+      "lastName": "Stępień",
+      "email": "kszys90@gmail.com",
+      "date": "2023-01-20",
+      "time": "11:00",
+      "id": 1
+    }
+  ]
+}
